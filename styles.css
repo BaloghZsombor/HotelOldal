@@ -1,0 +1,26 @@
+body{
+    background-image: url(hatter.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:bottom;
+}
+div{
+    float: right;
+    color: aliceblue;
+}
+
+#szoveg{
+    font-size: 24px;
+    background-color: darkgrey;
+}
+
+img{
+    height: 530px;
+    width: 800px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+label{
+    font-size: 17px;
+}
